@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/MiniDistributedSystem/" />
+  <Folder Name="/MiniDistributedSystem/src/">
+    <Project Path="MiniDistributedSystem/src/Submission.Api/Submission.Api.csproj" />
+    <Project Path="MiniDistributedSystem/src/Submission.Client/Submission.Client.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/BasicWebApi/BasicWebApi.csproj" />
+  </Folder>
+</Solution>
+
